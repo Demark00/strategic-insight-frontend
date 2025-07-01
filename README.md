@@ -42,7 +42,7 @@ Built using **Next.js**, **TypeScript**, **ShadCN UI**, and **Zustand**, the fro
 
 ```bash
 # Clone the frontend repo
-git clone https://github.com/your-username/strategic-insight-frontend.git
+git clone https://github.com/Demark00/strategic-insight-frontend.git
 cd strategic-insight-frontend
 
 # Install dependencies
